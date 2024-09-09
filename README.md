@@ -60,3 +60,22 @@
 references: 
 * https://azure.microsoft.com/en-us/products/ai-services
 ](url)](url)
+
+
+## Connecting to Blob Storage to show data
+![image](https://github.com/user-attachments/assets/b4efa8b4-3069-4531-a799-0dd3f1bfc7a3)
+
+
+![image](https://github.com/user-attachments/assets/b59c08fe-b296-442b-9652-96cce04c7175)
+
+## Azure AI Search
+Azure AI search was previously known as Azure cognitive search
+Below code shows how to search data in Azure AI Search use .net
+* Configuration:
+![image](https://github.com/user-attachments/assets/7485a8a0-3772-4316-abf7-4c85d55ad81e)
+
+C# code
+![image](https://github.com/user-attachments/assets/d57c9bb4-9fa5-4a51-b5f4-3556e5f62b36)
+
+Adding Open AI with Azure AI Search
+ 
