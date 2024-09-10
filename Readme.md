@@ -1,4 +1,4 @@
-[[# AzureAIServices
+# AzureAIServices
 
 
 <table>
